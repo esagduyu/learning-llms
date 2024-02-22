@@ -14,3 +14,4 @@ This is mainly here to force me to stop hoarding them in open tabs :)
 * WSL setup (linked above)
 * [Maximme Labonne's LLM Course](https://github.com/mlabonne/llm-course) for a meta-list of learning paths
 * Fast.ai's [Practical Deep Learning for Coders](https://course.fast.ai/), especially [its new Part II](https://course.fast.ai/Lessons/part2.html)
+* HuggingFace's [Transformers Docs](https://huggingface.co/docs/transformers/index)
