@@ -12,6 +12,7 @@ This is mainly here to force me to stop hoarding them in open tabs :)
 
 * Karpathy's course & repo (linked above)
 * WSL setup (linked above)
+* [This guide from freeCodeCamp](https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/) on setting up WSL for NN applications with CUDA support
 * [Maximme Labonne's LLM Course](https://github.com/mlabonne/llm-course) for a meta-list of learning paths
 * Fast.ai's [Practical Deep Learning for Coders](https://course.fast.ai/), especially [its new Part II](https://course.fast.ai/Lessons/part2.html)
 * HuggingFace's [Transformers Docs](https://huggingface.co/docs/transformers/index)
